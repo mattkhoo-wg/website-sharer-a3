@@ -1,4 +1,4 @@
-I added ann input field for the user to have their name related to their post. When the posts are loaded their name will appear with it at the top.
+I added an input field for the user to have their name related to their post. When the posts are loaded their name will appear with it at the top.
 
 I did this on my own
 
